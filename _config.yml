@@ -1,0 +1,28 @@
+name: Siguidiya Percussion
+favicon: null
+layout_spectrum: 0.38315702392719686
+typography_spectrum: 0.27909997990354896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.07392595172859728
+  lightness: 0.7005659472197294
+  saturation: 0.3813232248649001
+  rhythmicContrast: 0.003414830658584833
+purpose: []
